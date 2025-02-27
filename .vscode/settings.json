@@ -1,0 +1,33 @@
+{
+    "java.project.referencedLibraries": [
+        "lib\\lwjgl.jar",
+        "lib\\lwjgl-assimp.jar",
+        "lib\\lwjgl-assimp-javadoc.jar",
+        "lib\\lwjgl-assimp-natives-windows.jar",
+        "lib\\lwjgl-assimp-sources.jar",
+        "lib\\lwjgl-glfw.jar",
+        "lib\\lwjgl-glfw-javadoc.jar",
+        "lib\\lwjgl-glfw-natives-windows.jar",
+        "lib\\lwjgl-glfw-sources.jar",
+        "lib\\lwjgl-javadoc.jar",
+        "lib\\lwjgl-natives-windows.jar",
+        "lib\\lwjgl-openal.jar",
+        "lib\\lwjgl-openal-javadoc.jar",
+        "lib\\lwjgl-openal-natives-windows.jar",
+        "lib\\lwjgl-openal-sources.jar",
+        "lib\\lwjgl-opengl.jar",
+        "lib\\lwjgl-opengl-javadoc.jar",
+        "lib\\lwjgl-opengl-natives-windows.jar",
+        "lib\\lwjgl-opengl-sources.jar",
+        "lib\\lwjgl-sources.jar",
+        "lib\\lwjgl-stb.jar",
+        "lib\\lwjgl-stb-javadoc.jar",
+        "lib\\lwjgl-stb-natives-windows.jar",
+        "lib\\lwjgl-stb-sources.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "lib",
+        "src"
+    ]
+  }

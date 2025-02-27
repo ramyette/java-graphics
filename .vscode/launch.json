@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Objects",
+            "request": "launch",
+            "mainClass": "testing.Objects",
+            "projectName": "java-graphics_647e5344"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "testing.HelloWorld",
+            "projectName": "java-graphics_647e5344"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "vmArgs": "--class-path lib/*"
+        }
+    ]
+  }
